@@ -67,12 +67,12 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
 
-## Autores ✒️
+## Autores 🧑‍🔧
 
 * **José Gabriel Jaimes** - *Trabajo Inicial* - [josegabriel-jr](https://github.com/josegabriel-jr) 🧑
 * **Andrea Carolina Villamil Ramírez** - *Documentación* - [Andrea](https://github.com/Andrea-lol) 👩
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/josegabriel-jr/appIMC/graphs/contributors) quíenes han participado en este proyecto. 
 
 
 
