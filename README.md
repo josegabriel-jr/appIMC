@@ -33,25 +33,11 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
+## Arquitectura 🔩 ⌨️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Acontinuación se explica la arquitectura del proyecto_
 
-### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 
 ## Despliegue 📦
 
