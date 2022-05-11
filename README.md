@@ -1,6 +1,6 @@
 # AppIMC
 
-_Esta app consta de una calculadora que proporciona el IMC (Índice de masa corporal) y la correspondiente categoría de nivel de peso según el IMC. _
+Esta app consta de una calculadora que proporciona el IMC (Índice de masa corporal) y la correspondiente categoría de nivel de peso según el IMC.
 
 ## Comenzando 🚀
 
