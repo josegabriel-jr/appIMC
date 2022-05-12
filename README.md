@@ -25,7 +25,7 @@ _4. Y la aplicación ya estaría descargada desde nuestro dispositivo Android._
 _5. Luego simplemente seleccionamos abrir y ya estamos en la aplicación._
 
 
-_La imagen de como se ve la aplicación en funcionamiento está [aquí] (https://github.com/josegabriel-jr/appIMC/blob/main/Instalación.jpeg)_
+_La imagen de como se ve la aplicación en funcionamiento está [aquí](https://github.com/josegabriel-jr/appIMC/blob/main/Instalación.jpeg)_
 
 
 ## Arquitectura 🔩 ⌨️
