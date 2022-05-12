@@ -39,7 +39,7 @@ _La arquitectura MVC (Model-View-Controller) consiste en separar nuestra aplicac
 * View: Será nuestra interfaz, la visualización de nuestro model. Tanto botones, campos de texto y más.
 * Controller: Tendrá la lógica de negocio, puede tener la lógica qué realizará un botón al hacerle click, llevarnos a otro vista, actualizar, decirle al modelo que traiga datos o más.
 
-
+![Image text](https://github.com/josegabriel-jr/appIMC/blob/main/MVC.png)
 
 _Ventajas del patrón de arquitectura MVC_
 * Aumenta la capacidad de prueba del código y facilita la implementación de nuevas funciones, ya que respalda en gran medida la separación de preocupaciones.
