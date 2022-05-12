@@ -1,6 +1,6 @@
 # AppIMC
 
-Esta app consta de una calculadora que proporciona el IMC (Índice de masa corporal) y la correspondiente categoría de nivel de peso según el IMC.
+Esta app es una calculadora de IMC (Índice de masa corporal) que nos permite conocer si la persona tiene sobrepeso o no, y para esto se hace deben ingresar 3 datos que son el nombre, peso y estatura.
 
 ## Comenzando 🚀
 
@@ -10,10 +10,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ### Pre-requisitos 📋
 
 _Herramientas requeridas para la instalación y funcionamiento del software_
-
-```
-Da un ejemplo
-```
+* [Android]- Mayor a v 10.0
 
 ### Instalación 🔧
 
@@ -46,11 +43,11 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Las herramientas que se utilizaron para la creación del proyecto son_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Kotlin](https://kotlinlang.org) - Lenguaje de Programación
+* [Android Studio](https://developer.android.com/studio?hl=es-419) - Entorno de Desarrollo Integrado
+* [XML](https://www.crehana.com/blog/desarrollo-web/que-es-xml/) - Lenguaje de Marcado Extensible
 
 
 ## Autores 🧑‍🔧
