@@ -14,19 +14,17 @@ _Herramientas requeridas para la instalación y funcionamiento del software_
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_1. La instalación del proyecto es muy fácil, simplemente debemos dirigirnos al enlace del drive desde nuestro dispositivo Android. [Click Aquí](https://drive.google.com/file/d/1X_BEgsKWhfVMhrGlA7y_CU_Y0UXKw_3g/view?usp=sharing)_
 
-_Dí cómo será ese paso_
+_2. Descargarmos el APK_
 
-```
-Da un ejemplo
-```
+_3. La Play Protect nos dirá que no se reconoce al desarrollador de la App, pero le daremos a la opción de instalar de todas formas._
 
-_Y repite_
+_4. Y la aplicación ya estaría descargada desde nuestro dispositivo Android._
 
-```
-hasta finalizar
-```
+_5. Luego simplemente seleccionamos abrir y ya estamos en la aplicación._
+
+![Image text](https://github.com/josegabriel-jr/appIMC/blob/main/Instalación.jpeg)
 
 
 ## Arquitectura 🔩 ⌨️
