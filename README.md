@@ -1,6 +1,6 @@
 # AppIMC
 
-Esta app es una calculadora de IMC (Índice de masa corporal) que nos permite conocer si la persona tiene sobrepeso o no, y para esto se hace deben ingresar 3 datos que son el nombre, peso y estatura.
+Esta app es una calculadora de IMC (Índice de masa corporal) que nos permite conocer si la persona tiene sobrepeso o no, y para esto se deben ingresar 3 datos que son el nombre, peso y estatura.
 
 ## Comenzando 🚀
 
