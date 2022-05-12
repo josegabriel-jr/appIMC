@@ -28,12 +28,27 @@ _Y repite_
 hasta finalizar
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Arquitectura 🔩 ⌨️
 
-_Acontinuación se explica la arquitectura del proyecto_
+_Para el proyecto se ha seleccionado como arquitectura la MVC_
 
+_La arquitectura MVC (Model-View-Controller) consiste en separar nuestra aplicación, a nivel general, en un conjunto de 3 responsabilidades:_
+
+* Model: La capa de datos, responsable de manejar la conexión con la base de datos o una API.
+* View: Será nuestra interfaz, la visualización de nuestro model. Tanto botones, campos de texto y más.
+* Controller: Tendrá la lógica de negocio, puede tener la lógica qué realizará un botón al hacerle click, llevarnos a otro vista, actualizar, decirle al modelo que traiga datos o más.
+
+
+
+_Ventajas del patrón de arquitectura MVC_
+* Aumenta la capacidad de prueba del código y facilita la implementación de nuevas funciones, ya que respalda en gran medida la separación de preocupaciones.
+* Las pruebas unitarias de Model and Controller son posibles ya que no extienden ni usan ninguna clase de Android.
+* Las funcionalidades de la Vista se pueden verificar a través de pruebas de IU si la Vista respeta el principio de responsabilidad única (actualice el controlador y muestre los datos del modelo sin implementar la lógica del dominio)
+
+_Desventajas del patrón de arquitectura MVC_
+* Las capas de código dependen unas de otras incluso si MVC se aplica correctamente.
+* No hay parámetro para manejar la lógica de la interfaz de usuario, es decir, cómo mostrar los datos.
 
 
 ## Despliegue 📦
