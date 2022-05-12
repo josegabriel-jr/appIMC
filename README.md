@@ -52,7 +52,7 @@ _Desventajas del patrón de arquitectura MVC_
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Para la realización del despliegue del apk se utilizó las opciones que por defecto trae android studio la cual es: Generate Signed Bundle or APK, la cual nos permite generar apk de tipo firmada o sin firmar._
 
 
 ## Construido con 🛠️
