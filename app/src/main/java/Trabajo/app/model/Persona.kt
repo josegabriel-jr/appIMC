@@ -2,6 +2,9 @@ package Trabajo.app.model
 
 class Persona(var nombre: String, var estatura: Double, var peso: Double ) {
 
+
+
+
     override fun equals(other: Any?): Boolean {
         return super.equals(other)
     }
